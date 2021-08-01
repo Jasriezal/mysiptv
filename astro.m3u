@@ -2,6 +2,8 @@
 
 #EXTINF:-1, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+#EXTINF:-1 tvg-id=RTM Parliament tvg-name=RTM_Parliament tvg-logo=”RTM Parlimen.png” group-title=”RTM”,RTM Parliament
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6e2aa4e87627d8d06d554.png",TV2 CH102
