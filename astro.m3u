@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440"
 
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1, group-title="DRAMA" tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png",Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/6bb65259258ea948f7d77.png",TV1 CH101
@@ -20,6 +18,8 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/889b8e80857bf36e0ab10.jpg",Astro Citra CH108
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg",Astro Ceria CH611
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png",Naura HD CH109
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/c5cb30b6d28d540a3aaa9.png",Suria CH110
@@ -32,10 +32,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV Al-Hijrah" tvg-logo="https://telegra.ph/file/789ea2e21fef48a488fe4.png",Colors Hindi HD CH116
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png",Go Shop Rumma CH118
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6720
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/28e25bf7f1e10d1261cf9.png",Go Shop GAAYA CH120
-http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e625d11f0db6e2538459e.png",TVS CH122
 https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/dcfe3ac04822ae28becdd.png",Awesome TV CH123
@@ -44,8 +40,6 @@ http://51.79.208.146:61980/myplay/c_58014/index.m3u8
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2164000.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png",NTV7 CH147
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/e329e809e30ac4c5c8414.png",NTV7 [Backup]
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/f2c2cb5788798387b952f.png",8TV CH148
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1, group-title="LIVE TV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9 CH149
@@ -70,68 +64,12 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6716
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6742
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/33990ed2d000b555a2c5b.png",BollyOne HD CH251
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6754
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/23afe385534ad2eb2d9c8.png",iQIYI HD CH300
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6723
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png",Astro Xiao Tai Yang HD CH304
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/88500
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png",Astro Xiao Tai Yang HD 1[Backup]
-http://185.180.221.194:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/30aae69adef041933dbee.png",Astro Xiao Tai Yang HD 2[Backup]
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b94cba3cc1bea6f90ff7e.png",TVB Classic CH305
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC CH306
-http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png",Astro Shuang Xing 双星台 CH307
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1, group-title="LIVE TV" tvg-logo="https://telegra.ph/file/51271889e52b820f079a3.png",TVB Xing He 星河 CH319
-http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png",Astro Quan Jia 全佳 CH308
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies 天映频道 CH309
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/a33a3bb6e02a1ba7a110c.png",Celestial Movies Indo Sub [Guna VPN]
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/63f82b6d600903af36faa.png",TVB Jade CH310
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6841
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro 华丽台 [TVB Jade]
-http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH311
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/0ef6c2b902832a905d3dc.png",CTI Asia CH316
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6771
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/4b330adb1e719b7a8720c.jpg",TVB News CH318
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6840
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/0ab3762da376a192b0822.png",TVB Xing He CH319
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6842
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/aaad88bee4d7c2b20edd8.png",TVBS Asia HD CH320
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/365a626b25d56ee7337ec.jpg",CCM 天映经典 CH321
-http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/870793532bc0a89fdb389.jpg",Astro Hua Hee Dai 欢喜台 CH333
-http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/cbe6901e74eb701ccfa16.jpg",CCTV4 HD CH335
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH351
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6702
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH352
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6703
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH353
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6704
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH354
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6705
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD CH355
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6706
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD CH392
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6803
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/f0c78541d975e72aa461d.png",KBS World HD [Backup]
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/16363
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/874539ddef10ee6460824.png",One HD CH393
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6817
 #EXTINF:-1, group-title="ENGLISH" tvg-logo="https://telegra.ph/file/a14e7747aa9c336fc31d6.jpg",Oh!K CH394
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN CH395
-http://zalogitv.tech:8080/mastro-top/2323/299|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/748edf4c2c677532e7ed8.png",tvN EN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/7061b5391ad43ed025acf.png",Hits Movie CH401
@@ -140,40 +78,16 @@ http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Malay Sub] CH405
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [English Sub]
-http://rv.imax.re:80/7076610784/1167304977/79755
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png",HBO [Backup]
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/130e75bf4a971060e1ad6.png",HBO Hits
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ceb6af3920a41c9795eca.png",CinemaWorld Indo Sub [Guna VPN]
-http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX CH412
 https://dl.dropboxusercontent.com/s/1nqhsz02w72ojjl/MAX.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/9f6377b501789af716993.png",CINEMAX MOREMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20907
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX EAST HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20906
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/c286472ec0a87411c8f8c.png",CINEMAX OUTERMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20905
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/ed7680ff3de682cb8d8ba.png",CINEMX MOVIEMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20897
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/57b8b54f1ae6a545de204.png",CINEMAX 5 STARMAX HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7892
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/b4571424c20b5fc93f285.png",CINEMAX ACTIONMAX
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20898
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/893f87a1b9d521a35221f.png",CINEMAX PLUS HD
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/14186
 #EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/f4a09bf4f1d490d221850.png",FOX Movies CH413
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/8b270258f61fe4bda1832.png",FOX Action Movies CH415
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/e472a76d6960f90476588.png",FOX Crime (Asia)
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/dfaf033cbe35e20c0dcb0.png",TVN Movies CH416
-http://zalogitv.tech:8080/live/mastro-top/2323/1401.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/5dd63870664573268f47a.jpg",Thrill Indo Sub [Guna VPN] CH417
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?pijanify.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/d42f0069da7ecd9ec0d5f.jpg",Astro Awani CH501
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png",BERNAMA CH502
@@ -182,99 +96,34 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6767
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN CH513
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52970
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/4464ad844aac36ae36079.png",Al-Jazeera EN [1080p Backup]
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/61de481bd9f75a55d936d.png",Sky News HD CH514
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6826
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News CH515
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/5d35d286930913ab23208.png",CNA News [Guna VPN]
-http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/1f5381e3ba6c20777c521.png",Bloomberg TV CH517
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6751
 #EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/a1c53683d352a9c3ed748.png",ABC Australia CH518
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6692
-#EXTINF:-1, group-title="NEWS" tvg-logo="https://telegra.ph/file/fa89bf849a67950fcad90.png",Bloomberg News [Guna VPN] CH519
-http://210.210.155.35/uq2663/h/h03/index1.m3u8
 #EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/9d3925f1e10917372eeaf.png",Nat Geo Wild CH550
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/43286c3eb21cb8c780758.png",Nat Geo CH551
-http://bit.ly/natgeo551
-#EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/3b454ca25d6e366b02f24.png",Discovery Life
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/52965
-#EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/625b5253d10c329d84aff.png",Discovery Investigation
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7848
-
-#EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/115360a81fb3890f5101f.png",Discovery Channel 552
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7889
-#EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/98a3e3651b464b0927eec.png",Discovery Asia [Viet] CH553
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/fe3cbfb8b107028b0ab52.png",Discovery Science HD CH554
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7907
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/316c394731adf881f77d3.png",History [USA] CH555
-http://rv.imax.re:80/7076610784/1167304977/81017
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/316c394731adf881f77d3.png",History [UK]
-http://rv.imax.re:80/7076610784/1167304977/167859
 #EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/4cc5697a84171e3e8991d.jpg",Animal Planet CH556
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/4cc5697a84171e3e8991d.jpg",Animal Planet [Backup - Viet Sub]
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/b204603cfd788f0c5edad.png",Astro Tutor TV UPSR CH601
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6736
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/3390dca62ae57b4916b4c.png",Astro Tutor TV PT3 CH602
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6734
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/e302167b28a346e72a1e5.png",Astro Tutor TV SPM CH603
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6735
-#EXTINF:-1, group-title="LEARNING" tvg-logo="https://telegra.ph/file/9ce648d4f9605ba69b58b.png",Astro TVIQ CH610
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6737
-#EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/413372fcca791b2904f78.jpg",Astro Ceria CH611
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f72c5ea067757078f14e0.png",Disney XD [LATIN] CH612
-http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior CH613
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/468822337c928926dd081.png",Disney Junior [Backup]
-http://zalogitv.tech:8080/mastro-top/2323/1453|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel [USA] CH614
 http://ip.mooniptv.cz:80/307213407411/307213407411/81029
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",Disney Channel [Backup]
-http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/a54b80cbfb5b24e8360fd.png",Disney Channel HD [Backup]
-http://zalogitv.tech:8080/mastro-top/2323/1452|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel [Backup]
-http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f744ebdcac7e8b8ee62d0.png",Disney Channel 2[Backup]
-http://rv.imax.re:80/7076610784/1167304977/78535
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/f5e9a3d984763b65102ec.png",Cartoon Network CH615
 http://zalogitv.tech:8080/mastro-top/2323/1454|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon CH616
 http://zalogitv.tech:8080/mastro-top/2323/1460|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon [Backup]
-http://tv.rebeliptv.com:83/82936722/29038858/142696.ts
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior CH617
 http://bit.ly/NickJr360p
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior [Backup]
-http://zalogitv.tech:8080/mastro-top/2323/601|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior [Backup]
-http://tv.rebeliptv.com:83/82936722/29038858/142694.ts
-#EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/07bd1525e2cb55a19863d.png",Nickelodeon Junior [Backup]
-http://rv.imax.re:80/7076610784/1167304977/78532
 #EXTINF:-1, group-title="CARTOONS" tvg-logo="https://telegra.ph/file/8630ed8bde0bdfd0c3dbf.png",USA: Boomerang CH619
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7199
-#EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub CH701
-http://zalogitv.tech:8080/live/mastro-top/2323/1402.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
-#EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN Indo Sub [Guna VPN]
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:-1, tvg-id="AXN.us" tvg-name="AXN" tvg-logo="https://telegra.ph/file/f4ca9f51dd286da0bf615.png" group-title="ENGLISH",AXN HD 1080p [PT Sub]
-http://rv.imax.re:80/FhIw3X8Fym/O3iBiTdNRQ/81815
 #EXTINF:-1, group-title="FAMILY" tvg-logo="https://telegra.ph/file/0298983a305b6db40e04e.jpg",Hello HD CH702
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1, group-title="DISCOVERY" tvg-logo="https://telegra.ph/file/988b815bc89e4bad0c259.png",FOXlife CH703
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/bccc6463dd079c2120699.png",KiX [Guna VPN] CH705
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:-1, group-title="MOVIES" tvg-logo="https://telegra.ph/file/bccc6463dd079c2120699.png",KiX [Backup - Viet Sub]
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8
 #EXTINF:-1, group-title="SERIES" tvg-logo="https://telegra.ph/file/7392cd58f1f1e8bf84211.png",Hits HD CH706
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6800
 #EXTINF:-1, group-title="SERIES" tvg-logo="https://telegra.ph/file/3f68d22d89d17cc673e96.png",TLC HD CH707
@@ -301,11 +150,6 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6778
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6807
 #EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/dcef753db1be1cb9e5ce4.png",Animax CH719
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6696
-#EXTINF:-1, group-title="ANIME" tvg-logo="https://telegra.ph/file/376b7cc3c698f1432e499.png",Aniplus Indo Sub [Guna VPN]
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-
-#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/e3e994ec1c91082831a3d.png",eGG Network CH800
-https://mastrotv.xyz/playlist/usee-egg-mastro-iptv.m3u8|user-agent=com.mastro.tv/2.0 (Linux;Android 9) ExoPlayerLib/2.8.4
 #EXTINF:-1, group-title="ASTRO" tvg-logo="https://telegra.ph/file/182b11c3e8c6049fb8739.jpg",Astro Arena CH801
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
